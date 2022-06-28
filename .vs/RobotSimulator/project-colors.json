@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9826fdd-c2c3-4fef-9d33-500230c569f3": {
+      "ProjectGuid": "e9826fdd-c2c3-4fef-9d33-500230c569f3",
+      "DisplayName": "RobotSimulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

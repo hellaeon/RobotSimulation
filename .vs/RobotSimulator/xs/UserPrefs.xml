@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E9826FDD-C2C3-4FEF-9D33-500230C569F3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RobotSimulator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RobotSimulator/commands.txt">
+    <Files>
+      <File FileName="RobotSimulator/CommandReader.cs" Line="3" Column="17" IsPinned="True" />
+      <File FileName="RobotSimulator/Program.cs" Line="9" Column="25" />
+      <File FileName="RobotSimulator/Robot.cs" Line="3" Column="25" />
+      <File FileName="RobotSimulator/commands.txt" Line="22" Column="7" />
+      <File FileName="RobotSimulator/IRobot.cs" Line="15" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RobotSimulator" expanded="True">
+            <Node name="RobotSimulator" expanded="True">
+              <Node name="commands.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
